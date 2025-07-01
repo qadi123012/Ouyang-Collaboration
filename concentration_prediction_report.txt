@@ -1,0 +1,11 @@
+Spectral Analysis and Concentration Prediction Report
+==============================================
+
+Analysis Parameters:
+- Number of peaks fitted: 3
+- Training samples: 22
+- Prediction samples: 38
+
+Calibration Results:
+
+K2CO3 Model:
